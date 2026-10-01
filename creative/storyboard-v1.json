@@ -1,0 +1,112 @@
+{
+ "animal_identities": {
+  "cat": "lean short-haired grey tabby cat, green eyes",
+  "dog": "scruffy medium-sized terrier mix, wiry tan-and-grey coat, floppy ears, soulful brown eyes"
+ },
+ "campaign_line": "Good pets. Bad options.",
+ "cutdowns": {
+  "15s": [
+   "shot-04",
+   "shot-07",
+   "shot-08"
+  ],
+  "30s": [
+   "shot-01",
+   "shot-04",
+   "shot-06",
+   "shot-07",
+   "shot-08"
+  ]
+ },
+ "film": "The Empty Bowl",
+ "format": "16:9 with protected 9:16 center crop",
+ "shots": [
+  {
+   "action": "Rain streaks down a dark kitchen window. An empty stainless steel bowl sits on the floor. The terrier mix glances at it, then looks away.",
+   "audio": "Heavy rain, distant thunder, one low piano note",
+   "camera": "Slow push-in, low angle",
+   "graphics": "Title card: THE EMPTY BOWL",
+   "id": "shot-01",
+   "time_in": "00:00",
+   "time_out": "00:12",
+   "title": "The Bowl"
+  },
+  {
+   "action": "The terrier lies by the front door, chin on paws. The grey tabby sits on the windowsill, tail flicking. Both stare at nothing.",
+   "audio": "Rain continues, soft vinyl crackle, muted trumpet",
+   "camera": "Slow lateral track, eye level",
+   "graphics": "Lower third: THE SUSPECTS",
+   "id": "shot-02",
+   "time_in": "00:12",
+   "time_out": "00:24",
+   "title": "The Suspects"
+  },
+  {
+   "action": "The dog drags a single sock across the hallway floor. The cat bats a pencil off a side table and watches it fall.",
+   "audio": "Tense pizzicato strings under rain",
+   "camera": "Handheld follow, hallway",
+   "graphics": null,
+   "id": "shot-03",
+   "time_in": "00:24",
+   "time_out": "00:36",
+   "title": "First Offense"
+  },
+  {
+   "action": "Unrolled toilet paper trails down the hallway. A cushion lies on the living room floor; the cat stretches beside it. The dog trots past carrying a slipper.",
+   "audio": "Strings build, rain heavier",
+   "camera": "Wide to medium, slow dolly",
+   "graphics": "Full-screen text: GOOD PETS. BAD OPTIONS.",
+   "id": "shot-04",
+   "time_in": "00:36",
+   "time_out": "00:48",
+   "title": "The Spree"
+  },
+  {
+   "action": "Close on the dog's eyes, then the cat's. Cut back to the empty bowl \u2014 still empty.",
+   "audio": "Music drops to near silence. A single dripping faucet.",
+   "camera": "Extreme close-ups, rack focus",
+   "graphics": null,
+   "id": "shot-05",
+   "time_in": "00:48",
+   "time_out": "01:00",
+   "title": "The Pattern"
+  },
+  {
+   "action": "A cardboard box sits on the wet doorstep. A knock. The dog's ears lift. The cat appears at the edge of frame.",
+   "audio": "Door knock, rain, hopeful acoustic guitar enters",
+   "camera": "Doorway framing, slight push-in",
+   "graphics": null,
+   "id": "shot-06",
+   "time_in": "01:00",
+   "time_out": "01:12",
+   "title": "The Delivery"
+  },
+  {
+   "action": "The open box on the living room rug. Inside: a sturdy stick-shaped chew toy (Durable Training Bite Stick Dog Toy) and a small rolling ball toy (PurrPlay Self-Rolling Cat Toy Ball). The dog noses the chew toy; the cat paws at the ball toy.",
+   "audio": "Warm strings, rain fading",
+   "camera": "Overhead to low angle on the box",
+   "graphics": "Full-screen text: GOOD PETS. BAD OPTIONS.",
+   "id": "shot-07",
+   "time_in": "01:12",
+   "time_out": "01:22",
+   "title": "The Evidence"
+  },
+  {
+   "action": "The dog chews contentedly on the stick-shaped chew toy (Durable Training Bite Stick Dog Toy). The cat curls around the rolling ball toy (PurrPlay Self-Rolling Cat Toy Ball), eyes half closed. Sunlight breaks through the window.",
+   "audio": "Resolved chord, birdsong, rain gone",
+   "camera": "Warm wide, slow pull-back",
+   "graphics": "End card: WHO'S A GOOD BOY \u2014 whosagoodboypets.myshopify.com",
+   "id": "shot-08",
+   "time_in": "01:22",
+   "time_out": "01:30",
+   "title": "Case Closed"
+  }
+ ],
+ "total_runtime": "00:00-01:30",
+ "version": "v1",
+ "locked_lines": {
+  "opening_narration": "Every crime has a motive. Theirs was an empty bowl.",
+  "midfilm_text": "GOOD PETS. BAD OPTIONS.",
+  "closing_narration": "They were never bad. They were just bored. Who's A Good Boy."
+ }
+}
